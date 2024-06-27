@@ -1,0 +1,23 @@
+[
+  {
+    "name": "BITKART : Empowering Campus E-commerce",
+    "desc": "Developed BITKART, a secure MERN stack website for campus second-hand item sales, featuring JWT authentication, MongoDB, Multer for image uploads, and RESTful routes with CORS middleware.",
+    "image": "BITKART",
+    "category": "WEBSITE",
+    "links": {
+      "view": "https://main--bitkart.netlify.app/",
+      "code": "https://github.com/CodeSmith18/BIT-KART"
+    }
+  },
+  {
+    "name": "Tic-Toe Thrive: Multiplayer Madness",
+    "desc": "Implemented real-time multiplayer functionality with Socket.io and developed a scalable backend using Node.js and Express.js for game logic, dynamic player matchmaking, and game room creation.",
+    "image": "ttt",
+    "category": "WEBSITE",
+    "links": {
+      "view": "https://667c69203b49ce0008fbe0d5--multittt.netlify.app/",
+      "code": "https://github.com/CodeSmith18/TIC-TAC-TOE"
+    }
+  }
+  
+]
